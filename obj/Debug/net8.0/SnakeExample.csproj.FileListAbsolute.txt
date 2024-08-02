@@ -1,0 +1,14 @@
+C:\GitHub\SnakeExample\bin\Debug\net8.0\SnakeExample.exe
+C:\GitHub\SnakeExample\bin\Debug\net8.0\SnakeExample.deps.json
+C:\GitHub\SnakeExample\bin\Debug\net8.0\SnakeExample.runtimeconfig.json
+C:\GitHub\SnakeExample\bin\Debug\net8.0\SnakeExample.dll
+C:\GitHub\SnakeExample\bin\Debug\net8.0\SnakeExample.pdb
+C:\GitHub\SnakeExample\obj\Debug\net8.0\SnakeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SnakeExample\obj\Debug\net8.0\SnakeExample.AssemblyInfoInputs.cache
+C:\GitHub\SnakeExample\obj\Debug\net8.0\SnakeExample.AssemblyInfo.cs
+C:\GitHub\SnakeExample\obj\Debug\net8.0\SnakeExample.csproj.CoreCompileInputs.cache
+C:\GitHub\SnakeExample\obj\Debug\net8.0\SnakeExample.dll
+C:\GitHub\SnakeExample\obj\Debug\net8.0\refint\SnakeExample.dll
+C:\GitHub\SnakeExample\obj\Debug\net8.0\SnakeExample.pdb
+C:\GitHub\SnakeExample\obj\Debug\net8.0\SnakeExample.genruntimeconfig.cache
+C:\GitHub\SnakeExample\obj\Debug\net8.0\ref\SnakeExample.dll
